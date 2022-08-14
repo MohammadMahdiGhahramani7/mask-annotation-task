@@ -1,4 +1,4 @@
-# Video Mask Annotation
+# Predictive Video Mask Annotation
 A significant amount of human effort is required to
 manually annotate video segmentation datasets, so reduc-
 ing human annotation costs is a major research focus.
